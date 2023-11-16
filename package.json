@@ -1,0 +1,20 @@
+{
+  "name": "msa-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "msa cli generate boilerplate nuxt 3 by msa",
+  "bin": {
+    "msa-cli": "bin/main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boilerplate nuxt 3"
+  ],
+  "author": "msa",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
